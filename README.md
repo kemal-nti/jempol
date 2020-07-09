@@ -1,0 +1,2 @@
+# jempol
+ibunya jari
