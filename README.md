@@ -1,2 +1,3 @@
-# jempol
-ibunya jari
+# project
+.com
+
